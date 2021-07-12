@@ -58,6 +58,7 @@ $('#btnReseña').click(()=>{
             };
         };
     });
+    
     $('.resenas').css('background','transparent')
 });
 
