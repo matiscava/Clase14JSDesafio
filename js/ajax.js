@@ -51,7 +51,7 @@ $('#btnReseña').click(()=>{
                     $(`#estrellas--${dato.id}`).append(`<span class="armasecreta-star-o"></span>`);           
                 }
                 if(dato.nombre==="Francis Mallmann"){
-                    $(`#img--${dato.id}`).attr("src","imagenes/fmallmann.jfif")
+                    $(`#img--${dato.id}`).attr("src","imagenes/Fmallmann.jfif")
                 }else{
                     $(`#img--${dato.id}`).attr("src","imagenes/user.jpg")
                 }
